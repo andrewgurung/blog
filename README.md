@@ -15,3 +15,12 @@ I like to write mostly about software development related things. I also post my
 If you like my website, you can follow me on twitter [@andrewgurung](https://twitter.com/andrewgurung).
 
 > [*"Valar Morghulis"*](http://gameofthrones.wikia.com/wiki/Valar_Morghulis) ~ Game of Thrones
+
+License
+
+The following directories and their contents are Copyright Andrew Gurung. You may not reuse anything therein without my permission:
+
+- _posts/
+- images/
+
+All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please.
